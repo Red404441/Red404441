@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing so far
 - 📫 How to reach me via discord, red404441
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: i like video games 
+- ⚡ Fun fact: i mainly like to work on stuff such as 3DS modding and the other tech stuff
 
 <!---
 Red404441/Red404441 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
