@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Red404441
-- 👀 I’m interested in coding and technology
-- 🌱 I’m currently learning simple coding (still basic and dont know any languages yet, hoping to learn either c++ or pythong)
-- 💞️ I’m looking to collaborate on nothing so far
-- 📫 How to reach me via discord, red404441
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: i mainly like to work on stuff such as 3DS modding and the other tech stuff
+<!-- 🪟 FRUITY AERO STYLE PROFILE - by Red404441 -->
 
-<!---
-Red404441/Red404441 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=32&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=💎+Welcome+to+the+Aero+Zone!;👋+Hi%2C+I'm+Red404441!" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/ZmF2M9K.gif" width="480" alt="Glass Bubbles Animation"/>
+</p>
+
+---
+
+### 🪟 About Me
+> *“Shiny surfaces, smooth gradients, endless curiosity.”*
+
+- 👀 **Interests:** Coding, technology, and retro-futurist aesthetics  
+- 🌱 **Currently Learning:** Fundamentals of programming → planning to explore **C++** or **Python**  
+- 💬 **Discord:** **red404441**  
+- ⚙️ **Projects:** 3DS modding, tech experiments, firmware tweaking  
+- 😄 **Pronouns:** He / Him / His  
+- ⚡ **Fun Fact:** I love reviving old tech and giving it that futuristic glow  
+
+---
+
+### 💾 My System Specs
