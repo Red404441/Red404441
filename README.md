@@ -1,70 +1,112 @@
-<!-- 💎 FRUITY AERO PROFILE README - by Red404441 -->
+<!-- 💠 FRUITY AERO MAXIMALIST PROFILE README - by Red404441 -->
 
-<!-- 🪟 Transparent Glass Banner -->
-<h1 align="center">
-  <div style="background: linear-gradient(135deg, rgba(0,255,255,0.25), rgba(0,100,255,0.25));
-              backdrop-filter: blur(12px);
-              border: 2px solid rgba(255,255,255,0.2);
-              box-shadow: 0 0 25px rgba(0,255,255,0.5);
-              border-radius: 25px;
-              display: inline-block;
-              padding: 25px 40px;
-              color: #ccf8ff;
-              font-family: 'Segoe UI', sans-serif;
-              font-size: 42px;
-              text-shadow: 0 0 10px #00eaff, 0 0 20px #007bff;">
-    💠 Welcome to <span style="color:#ffffff;">Red404441’s System</span> 💠
+<!-- 🔮 Animated Gradient Background -->
+<div align="center">
+  <div style="
+    background: linear-gradient(270deg, #00ffff, #ff00ff, #00a2ff, #00ff99, #ffae00);
+    background-size: 1000% 1000%;
+    animation: gradientShift 15s ease infinite;
+    border-radius: 25px;
+    padding: 60px 20px;
+    box-shadow: 0 0 40px rgba(0,255,255,0.4), inset 0 0 30px rgba(255,255,255,0.1);
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+    backdrop-filter: blur(15px);
+  ">
+    <style>
+      @keyframes gradientShift {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+      }
+      @keyframes floaty {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+      @keyframes glowPulse {
+        0%, 100% { text-shadow: 0 0 10px #00fff7, 0 0 25px #00fff7, 0 0 50px #00fff7; }
+        50% { text-shadow: 0 0 20px #ff00ff, 0 0 40px #ff00ff, 0 0 60px #00ffff; }
+      }
+    </style>
+
+    <h1 style="
+      font-size: 56px;
+      animation: glowPulse 4s infinite alternate;
+      letter-spacing: 2px;
+      margin-bottom: 10px;">
+      💎 Red404441
+    </h1>
+
+    <p style="font-size: 20px; font-weight: 300; opacity: 0.95; animation: floaty 4s ease-in-out infinite;">
+      🪩 Retro-Cyber Enthusiast & Tech Explorer  
+      💻 Learning to Code | Dreaming in Neon  
+    </p>
+
+    <p>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=480&lines=👋+Welcome+to+my+Profile;✨+Enjoy+the+Aero+Glow;🚀+Always+Learning+and+Creating!" alt="Typing Animation">
+    </p>
+
+    <br>
+    <div style="
+      display: inline-flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;">
+      
+      <a href="https://github.com/Red404441">
+        <div style="
+          background: rgba(255,255,255,0.15);
+          border: 1px solid rgba(255,255,255,0.25);
+          border-radius: 18px;
+          padding: 15px 25px;
+          backdrop-filter: blur(10px);
+          box-shadow: 0 0 20px rgba(0,255,255,0.4);
+          transition: 0.4s;
+          color: #fff;
+          font-weight: 500;">
+          🧠 About Me
+        </div>
+      </a>
+
+      <a href="https://github.com/Red404441?tab=repositories">
+        <div style="
+          background: rgba(255,255,255,0.15);
+          border: 1px solid rgba(255,255,255,0.25);
+          border-radius: 18px;
+          padding: 15px 25px;
+          backdrop-filter: blur(10px);
+          box-shadow: 0 0 20px rgba(255,0,255,0.4);
+          transition: 0.4s;
+          color: #fff;
+          font-weight: 500;">
+          💾 Projects
+        </div>
+      </a>
+
+      <a href="https://discord.com/users/red404441">
+        <div style="
+          background: rgba(255,255,255,0.15);
+          border: 1px solid rgba(255,255,255,0.25);
+          border-radius: 18px;
+          padding: 15px 25px;
+          backdrop-filter: blur(10px);
+          box-shadow: 0 0 20px rgba(0,255,255,0.4);
+          transition: 0.4s;
+          color: #fff;
+          font-weight: 500;">
+          💬 Discord
+        </div>
+      </a>
+    </div>
+
+    <br><br>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=Red404441&show_icons=true&bg_color=00000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff" alt="GitHub Stats">
+    </p>
+
+    <p>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Red404441&theme=transparent&hide_border=true&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff" alt="GitHub Streak">
+    </p>
   </div>
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=520&lines=👋+Hi,+I'm+Red404441;✨+Exploring+Tech+and+Code;💾+Retro+Futurist+Vibes" alt="Typing SVG" />
-</p>
-
----
-
-### 🪟 About Me
-> *“Shiny surfaces, soft gradients, infinite curiosity.”*
-
-- 👀 **Interests:** Coding, technology, and all things futuristic  
-- 🌱 **Currently Learning:** Basic programming — aiming to dive into **C++** or **Python**  
-- 💬 **Discord:** `red404441`  
-- 💞️ **Collabs:** None (for now — still learning the ropes)  
-- 😄 **Pronouns:** He / Him / His  
-- ⚡ **Fun Fact:** I love **3DS modding**, firmware tweaks, and making old tech sparkle again  
-
----
-
-### 💾 System Specs
-
----
-
-### 🧠 My Goals
-💡 *Build a strong coding foundation and experiment with tech aesthetics.*  
-💎 *Keep everything sleek, shiny, and slightly nostalgic.*  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Red404441&show_icons=true&bg_color=30,00a2ff,00ffc6&title_color=ffffff&text_color=f0f0f0&icon_color=ffffff&border_color=00ffff" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Red404441&theme=transparent&hide_border=true&background=0D1117&ring=00ffff&fire=00a2ff&currStreakLabel=00ffff" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">
-  <div style="background: linear-gradient(90deg, rgba(0,255,255,0.15), rgba(0,100,255,0.15));
-              backdrop-filter: blur(6px);
-              padding: 12px 25px;
-              border-radius: 15px;
-              border: 1px solid rgba(255,255,255,0.15);
-              color: #bffcff;
-              display: inline-block;">
-    💠 “Transparency is the new glow.” 💠
-  </div>
-</h3>
-
-
+</div>
